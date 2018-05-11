@@ -139,8 +139,9 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
     - [ ] [Udacity - AI for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 
 - ### Computer Vision
-
+- [ ] Image Processing & relate Maths
 - [ ] Adequate Computer Vision Knowledge
+    - [ ] [Computer Vision] SzeliskiBook_20100903_draft , http://www.computervisionmodels.com/
     - [ ] [Udacity - Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 
 - ### Robotics
